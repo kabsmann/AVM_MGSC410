@@ -1,3 +1,5 @@
+LINK FOR EC2: http://3.142.76.83:3838/AVM_MGSC410/
+
 Kabir Mann
 Taher Rastkar
 
